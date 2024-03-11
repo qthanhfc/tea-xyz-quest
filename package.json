@@ -1,7 +1,8 @@
 {
-  "name": "redux-essentials-example",
+  "name": "@quanhoa/tea-xyz-quest",
+  "author": "@quanhoa",
+  "repository": "https://github.com/qthanhfc/tea-xyz-quest.git",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
     "@testing-library/jest-dom": "^4.2.4",
